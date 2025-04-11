@@ -121,6 +121,14 @@ flutter test
 flutter test test/unit/sensor_data_test.dart
 ```
 
+## 🧪 Run App using:
+
+Run using:
+```bash
+# Run all tests
+flutter run -d chrome
+```
+
 ## 📝 Coding Guidelines
 
 ### General Practices
